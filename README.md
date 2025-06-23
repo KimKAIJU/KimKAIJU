@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @KimKAIJU
-- 👀 I’m interested in learning more, actually alot about coding, cloud computing, blockchain technology and more in the digital world 
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on any form of interaction that will enhance my knowledge in coding and any of the areas mentioned above
+- 👋 Hi, I’m David Kimani
+- I'm a detail-oriented technical writer and content contributor passionate about making complex technologies simple and accessible. With a strong background in documentation, editing, and open-source collaboration, I specialize in improving developer experience through clear, concise, and accurate content.
+
+💡 Currently seeking contributor opportunities with projects including support global developer communities.
+- 👀 I’m interested in learning more, actually alot about cloud computing, blockchain technology and more in the digital world. 
+- 🌱 I’m currently learning coding.
+- 💞️ I’m looking to collaborate on any form of interaction that will enhance my knowledge and expertise in the Web 3 ecosystem. 
 - 📫 How to reach me : Davidkimani247@gmail.com, www.linkedin.com/in/david-kimani-3aa8b7162
 
 <!---
