@@ -5,8 +5,7 @@
 - 👀 I’m interested in learning more, actually alot about cloud computing, blockchain technology and more in the digital world. 
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on any form of interaction that will enhance my knowledge and expertise in the Web 3 ecosystem. 
-- 📫 How to reach me : Davidkimani247@gmail.com, www.linkedin.com/in/david-kimani-3aa8b7162
-
+- 📫 How to reach me : Davidkimani247@gmail.com, davidkimani.co.ke
 <!---
 KimKAIJU/KimKAIJU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
